@@ -1,0 +1,7 @@
+E:\unity\quark\Semana 02\FizzBuzzKata_Equipo9\FizzBuzzKata_Equipo9\bin\Debug\FizzBuzzKata_Equipo9.exe.config
+E:\unity\quark\Semana 02\FizzBuzzKata_Equipo9\FizzBuzzKata_Equipo9\bin\Debug\FizzBuzzKata_Equipo9.exe
+E:\unity\quark\Semana 02\FizzBuzzKata_Equipo9\FizzBuzzKata_Equipo9\bin\Debug\FizzBuzzKata_Equipo9.pdb
+E:\unity\quark\Semana 02\FizzBuzzKata_Equipo9\FizzBuzzKata_Equipo9\obj\Debug\FizzBuzzKata_Equipo9.csproj.AssemblyReference.cache
+E:\unity\quark\Semana 02\FizzBuzzKata_Equipo9\FizzBuzzKata_Equipo9\obj\Debug\FizzBuzzKata_Equipo9.csproj.CoreCompileInputs.cache
+E:\unity\quark\Semana 02\FizzBuzzKata_Equipo9\FizzBuzzKata_Equipo9\obj\Debug\FizzBuzzKata_Equipo9.exe
+E:\unity\quark\Semana 02\FizzBuzzKata_Equipo9\FizzBuzzKata_Equipo9\obj\Debug\FizzBuzzKata_Equipo9.pdb
